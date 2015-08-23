@@ -13,5 +13,6 @@ vignettes/*.html
 vignettes/*.pdf
 
 # data
+.RData
 Source_Classification_Code.rds
 summarySCC_PM25.rds
